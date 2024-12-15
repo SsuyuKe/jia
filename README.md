@@ -2,7 +2,7 @@
 
 <p align="center">
   <figure>
-    <img src="https://github.com/user-attachments/assets/3574cbcb-7df0-443c-be85-a4234b67a31a" alt="J I A - About" width="300">
+    <img src="https://github.com/user-attachments/assets/3cfded81-7b64-49d0-b3ee-9db59ee315fe" alt="J I A - About" width="300">
     <figcaption>關於頁面</figcaption>
   </figure>
   <figure>
