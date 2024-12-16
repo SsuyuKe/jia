@@ -7,7 +7,6 @@ const API_URL = process.env.NODE_ENV === 'production'
   : 'http://localhost:6001';
 
 export default defineConfig({
-  base: '/jia-project/',
   plugins: [react()],
   resolve: {
     alias: {
