@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "http://localhost:6001/api/$1"
+      "destination": "https://jia-tan.vercel.app/api/$1"
     }
   ]
 }
